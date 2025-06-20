@@ -122,7 +122,7 @@ export default function Nav() {
       <div className="py-3 bg-gray-100">
         <div className="px-4 lg:px-20 xl:px-32 text-gray-500 text-sm flex justify-between content-center">
           <span className="flex space-x-2 cursor-pointer text-gray-400 hover:text-pink-400">
-            <MdMarkEmailUnread size={25} /> <span>jorgedoe@gmail.com</span>
+            <MdMarkEmailUnread size={25} /> <span>info@succorcoin.com</span>
           </span>
           <span className="flex space-x-2 text-gray-400">
             <FaTelegram
